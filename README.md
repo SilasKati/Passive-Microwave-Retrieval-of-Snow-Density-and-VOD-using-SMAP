@@ -33,9 +33,9 @@ Our hypothesis that it is possible to extract VOD across heavily snow-covered lo
 
 
 <h2>Members</h2>
-- <a href="https://www.linkedin.com/in/silaskati/">Kati, Silas</a> (MS Data Science, Dept. of CSE, CSE, UMN) | [GitHub](https://github.com/SilasKati)
-- <a href="https://www.linkedin.com/in/divya-kumawat-593a2910b/">Kumawat, Divya</a> (Ph.D. Civil Engineering Department, CEGE, UMN) | [GitHub](https://github.com/Divak14)
-- <a href="https://www.linkedin.com/in/destiny-ziebol/">Ziebol, Destiny</a> (MS Data Science, Dept. of CSE, CSE, UMN) | [GitHub](https://github.com/ddziebol)
+- <a href="https://www.linkedin.com/in/silaskati/">Kati, Silas</a> (MS Data Science, Dept. of CSE, CSE, UMN) | <a href="https://github.com/SilasKati">GitHub</a><br>
+- <a href="https://www.linkedin.com/in/divya-kumawat-593a2910b/">Kumawat, Divya</a> (Ph.D. Civil Engineering Department, CEGE, UMN) | <a href="https://github.com/Divak14">GitHub</a><br>
+- <a href="https://www.linkedin.com/in/destiny-ziebol/">Ziebol, Destiny</a> (MS Data Science, Dept. of CSE, CSE, UMN) | <a href="https://github.com/ddziebol">GitHub</a><br>
 
 
 <h2>Future Works</h2>
