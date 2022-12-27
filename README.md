@@ -37,9 +37,9 @@ Our hypothesis that it is possible to extract VOD across heavily snow-covered lo
 
 
 <h2>Future Works</h2>
+
 Convolutional neural networks (CNNs), knowledge-guided machine learning (KGML), exploring feature importance in our models using SHAP or permutation importance, contrasting VOD estimates above 65°N to leaf area index and tree height data, and hyperparameter tuning on our numerous models are some of the techniques we plan to test. 
-
-
+<br><br>
 Convolutional neural networks would be a logical progression for this study and a reasonable expansion for comparison (CNNs). 
 While CNNs have been modified to operate with spatial autocorrelation, LSTMs are built to work with temporal autocorrelation. Further studies might even use a more recent hybrid CNN LSTM model since both are present in our data set.
 
