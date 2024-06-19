@@ -26,6 +26,7 @@ Our hypothesis that it is possible to extract VOD across heavily snow-covered lo
 - Random Forest regression
 - DNN 
 - LSTM
+- CNN
 - Scaling and Hyperparameter optimization
 - Plotting and visualizations
 
